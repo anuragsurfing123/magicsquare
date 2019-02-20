@@ -42,10 +42,10 @@ if (row == -1) {
 for(int i=0;i<MagicSquare.length;i++){
 for(int j=0;j<MagicSquare.length;j++)
 {
-System.out.println(MagicSquare[i][j]);
+System.out.print(MagicSquare[i][j]+" ");
 
 }
-
+System.out.println();
 }
 }
 }
