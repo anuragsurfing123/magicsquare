@@ -1,3 +1,3 @@
 # magicsquare
-magicsquare
-MAGIC SQUARE
+
+!!!!!!!!   MAGIC SQUARE   !!!!!!!!
