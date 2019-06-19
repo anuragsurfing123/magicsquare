@@ -1,0 +1,3 @@
+# magicsquare
+magicsquare
+MAGIC SQUARE
